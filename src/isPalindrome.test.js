@@ -26,3 +26,8 @@ test('Madam, my name is Adam', () => {
   expect(isPalindrome('Madam, my name is Adam'))
     .toBe(false);
 });
+
+test('Empty string', () => {
+  expect(isPalindrome(''))
+    .toBe(true);
+});
