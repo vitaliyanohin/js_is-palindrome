@@ -1,4 +1,4 @@
-# Boilerplate for JS tasks
+# Palindrome validation
 
 **Read the guideline before start**
 
