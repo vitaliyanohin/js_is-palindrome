@@ -1,8 +1,8 @@
 {
-  "name": "js-task-boilerplate",
+  "name": "is-palindrome",
   "version": "1.0.0",
-  "description": "js task boilerplate",
-  "main": "src/sum.js",
+  "description": "Palindrome validation",
+  "main": "src/isPalindrome.js",
   "scripts": {
     "test": "jest",
     "lint": "eslint **/*.js"
